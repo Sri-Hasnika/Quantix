@@ -2,7 +2,7 @@
 
 A beginner-friendly calculator project that performs basic arithmetic operations—addition, subtraction, multiplication, and division. This project is perfect for anyone looking to strengthen their foundational skills in front-end web development.
 
-![Calculator Output](assets/output.png)
+![Calculator Output](output.png)
 
 ## 📚 Project Overview
 
